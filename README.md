@@ -21,7 +21,7 @@
 > 不建议指定阿里云的源，一堆坑，建议找一个好一点的 vpn 进行下面的命令
 
 ```shell
-minikube start -driver=virtualbox
+minikube start --driver=virtualbox
 ```
 
 ### 开启 dashboard
